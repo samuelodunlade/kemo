@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kemo/static/css/main.e6c13ad2.css",
+    "main.js": "/kemo/static/js/main.46d80eb8.js",
+    "static/js/453.c525d7c0.chunk.js": "/kemo/static/js/453.c525d7c0.chunk.js",
+    "index.html": "/kemo/index.html",
+    "main.e6c13ad2.css.map": "/kemo/static/css/main.e6c13ad2.css.map",
+    "main.46d80eb8.js.map": "/kemo/static/js/main.46d80eb8.js.map",
+    "453.c525d7c0.chunk.js.map": "/kemo/static/js/453.c525d7c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.46d80eb8.js"
+  ]
+}
