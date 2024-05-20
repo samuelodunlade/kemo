@@ -3,11 +3,16 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import DayTwo from './DayTwo';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
+
+var content = <ul><li>One</li><li>Two</li><li>Three</li></ul>
+
 root.render(
   <React.StrictMode>
-    <App />
+    {/* <App/> */}
+    <DayTwo/>
   </React.StrictMode>
 );
 
